@@ -1,0 +1,11 @@
+D:\websec\ics0031-2019f\RSAAlgorithmBruteForce\RSAAlgorithmBruteForce\bin\Debug\netcoreapp3.0\RSAAlgorithmBruteForce.exe
+D:\websec\ics0031-2019f\RSAAlgorithmBruteForce\RSAAlgorithmBruteForce\bin\Debug\netcoreapp3.0\RSAAlgorithmBruteForce.deps.json
+D:\websec\ics0031-2019f\RSAAlgorithmBruteForce\RSAAlgorithmBruteForce\bin\Debug\netcoreapp3.0\RSAAlgorithmBruteForce.runtimeconfig.json
+D:\websec\ics0031-2019f\RSAAlgorithmBruteForce\RSAAlgorithmBruteForce\bin\Debug\netcoreapp3.0\RSAAlgorithmBruteForce.runtimeconfig.dev.json
+D:\websec\ics0031-2019f\RSAAlgorithmBruteForce\RSAAlgorithmBruteForce\bin\Debug\netcoreapp3.0\RSAAlgorithmBruteForce.dll
+D:\websec\ics0031-2019f\RSAAlgorithmBruteForce\RSAAlgorithmBruteForce\bin\Debug\netcoreapp3.0\RSAAlgorithmBruteForce.pdb
+D:\websec\ics0031-2019f\RSAAlgorithmBruteForce\RSAAlgorithmBruteForce\obj\Debug\netcoreapp3.0\RSAAlgorithmBruteForce.csprojAssemblyReference.cache
+D:\websec\ics0031-2019f\RSAAlgorithmBruteForce\RSAAlgorithmBruteForce\obj\Debug\netcoreapp3.0\RSAAlgorithmBruteForce.AssemblyInfoInputs.cache
+D:\websec\ics0031-2019f\RSAAlgorithmBruteForce\RSAAlgorithmBruteForce\obj\Debug\netcoreapp3.0\RSAAlgorithmBruteForce.AssemblyInfo.cs
+D:\websec\ics0031-2019f\RSAAlgorithmBruteForce\RSAAlgorithmBruteForce\obj\Debug\netcoreapp3.0\RSAAlgorithmBruteForce.dll
+D:\websec\ics0031-2019f\RSAAlgorithmBruteForce\RSAAlgorithmBruteForce\obj\Debug\netcoreapp3.0\RSAAlgorithmBruteForce.pdb

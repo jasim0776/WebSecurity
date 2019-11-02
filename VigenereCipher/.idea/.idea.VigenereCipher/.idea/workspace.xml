@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8a68caa2-f6f2-4dd3-a201-2317e06602b6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../DiffiHellman/.idea/.idea.DiffiHellman/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DiffiHellman/.idea/.idea.DiffiHellman/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiffiHellman/.idea/.idea.DiffiHellman/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DiffiHellman/.idea/.idea.DiffiHellman/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiffiHellman/DiffiHellman/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../DiffiHellman/DiffiHellman/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiffiHellman/DiffiHellman/bin/Debug/netcoreapp3.0/DiffiHellman.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../DiffiHellman/DiffiHellman/bin/Debug/netcoreapp3.0/DiffiHellman.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiffiHellman/DiffiHellman/bin/Debug/netcoreapp3.0/DiffiHellman.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../DiffiHellman/DiffiHellman/bin/Debug/netcoreapp3.0/DiffiHellman.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiffiHellman/DiffiHellman/obj/Debug/netcoreapp3.0/DiffiHellman.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../DiffiHellman/DiffiHellman/obj/Debug/netcoreapp3.0/DiffiHellman.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiffiHellman/DiffiHellman/obj/Debug/netcoreapp3.0/DiffiHellman.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../DiffiHellman/DiffiHellman/obj/Debug/netcoreapp3.0/DiffiHellman.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiffiHellman/DiffiHellman/obj/Debug/netcoreapp3.0/DiffiHellman.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../DiffiHellman/DiffiHellman/obj/Debug/netcoreapp3.0/DiffiHellman.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiffiHellman/DiffiHellman/obj/Debug/netcoreapp3.0/DiffiHellman.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../DiffiHellman/DiffiHellman/obj/Debug/netcoreapp3.0/DiffiHellman.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiffiHellman/DiffiHellman/obj/Debug/netcoreapp3.0/DiffiHellman.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../DiffiHellman/DiffiHellman/obj/Debug/netcoreapp3.0/DiffiHellman.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiffiHellman/DiffiHellman/obj/DiffiHellman.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../DiffiHellman/DiffiHellman/obj/DiffiHellman.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiffiHellman/DiffiHellman/obj/DiffiHellman.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../DiffiHellman/DiffiHellman/obj/DiffiHellman.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiffiHellman/DiffiHellman/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../DiffiHellman/DiffiHellman/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiffiHellman/DiffiHellman/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../DiffiHellman/DiffiHellman/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.VigenereCipher/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.VigenereCipher/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.VigenereCipher/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.VigenereCipher/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VigenereCipher/obj/Debug/netcoreapp3.0/VigenereCipher.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/VigenereCipher/obj/Debug/netcoreapp3.0/VigenereCipher.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VigenereCipher/obj/Debug/netcoreapp3.0/VigenereCipher.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/VigenereCipher/obj/Debug/netcoreapp3.0/VigenereCipher.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VigenereCipher/obj/VigenereCipher.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/VigenereCipher/obj/VigenereCipher.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VigenereCipher/obj/VigenereCipher.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/VigenereCipher/obj/VigenereCipher.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VigenereCipher/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/VigenereCipher/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VigenereCipher/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/VigenereCipher/obj/project.packagespec.json" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/VigenereCipher/Program.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/VigenereCipher/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1RmFPcZbbKUa31BoJ3EITBzaeQF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/VigenereCipher/bin/Debug/netcoreapp3.0/VigenereCipher.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/VigenereCipher/bin/Debug/netcoreapp3.0" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/VigenereCipher/VigenereCipher.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v3.0" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a68caa2-f6f2-4dd3-a201-2317e06602b6" name="Default Changelist" comment="" />
+      <created>1570264341359</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570264341359</updated>
+      <workItem from="1570264342850" duration="2217000" />
+      <workItem from="1570309133404" duration="2229000" />
+      <workItem from="1570382919550" duration="657000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

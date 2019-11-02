@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\jasim\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\jasim\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_CaserCipher.-1123867794.00" t="ExcludeRecursive" />
+    <e p="D:\websec\ics0027-2019f\CaserCipher" t="IncludeFlat">
+      <e p="CaserCipher" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="CaserCipher.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.0" t="Include">
+              <e p="CaserCipher.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="CaserCipher.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

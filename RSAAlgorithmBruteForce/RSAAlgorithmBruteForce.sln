@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSAAlgorithmBruteForce", "RSAAlgorithmBruteForce\RSAAlgorithmBruteForce.csproj", "{AE05577A-C277-4420-A12D-CF02B12B368B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE05577A-C277-4420-A12D-CF02B12B368B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE05577A-C277-4420-A12D-CF02B12B368B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE05577A-C277-4420-A12D-CF02B12B368B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE05577A-C277-4420-A12D-CF02B12B368B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

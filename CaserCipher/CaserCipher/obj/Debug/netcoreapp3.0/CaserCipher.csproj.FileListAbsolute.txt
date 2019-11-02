@@ -1,0 +1,11 @@
+D:\websec\ics0027-2019f\CaserCipher\CaserCipher\bin\Debug\netcoreapp3.0\CaserCipher.exe
+D:\websec\ics0027-2019f\CaserCipher\CaserCipher\bin\Debug\netcoreapp3.0\CaserCipher.deps.json
+D:\websec\ics0027-2019f\CaserCipher\CaserCipher\bin\Debug\netcoreapp3.0\CaserCipher.runtimeconfig.json
+D:\websec\ics0027-2019f\CaserCipher\CaserCipher\bin\Debug\netcoreapp3.0\CaserCipher.runtimeconfig.dev.json
+D:\websec\ics0027-2019f\CaserCipher\CaserCipher\bin\Debug\netcoreapp3.0\CaserCipher.dll
+D:\websec\ics0027-2019f\CaserCipher\CaserCipher\bin\Debug\netcoreapp3.0\CaserCipher.pdb
+D:\websec\ics0027-2019f\CaserCipher\CaserCipher\obj\Debug\netcoreapp3.0\CaserCipher.csprojAssemblyReference.cache
+D:\websec\ics0027-2019f\CaserCipher\CaserCipher\obj\Debug\netcoreapp3.0\CaserCipher.AssemblyInfoInputs.cache
+D:\websec\ics0027-2019f\CaserCipher\CaserCipher\obj\Debug\netcoreapp3.0\CaserCipher.AssemblyInfo.cs
+D:\websec\ics0027-2019f\CaserCipher\CaserCipher\obj\Debug\netcoreapp3.0\CaserCipher.dll
+D:\websec\ics0027-2019f\CaserCipher\CaserCipher\obj\Debug\netcoreapp3.0\CaserCipher.pdb
